@@ -1,0 +1,226 @@
+h1 {
+  opacity: 0;
+}
+nav img {
+  width: auto;
+  height: 100px;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li {
+  padding: 30px;
+  padding-left: 10px;
+  font-size: 15pt;
+  /* color: rgb(3, 1, 1); */
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  /* background-color: rgb(255, 0, 0, 0.5); */
+}
+#home1 {
+  text-align: justify;
+  padding: 40px;
+  margin-bottom: 200px;
+}
+footer .card-header {
+  background-color: rgba(255, 72, 0, 0.9);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 20pt;
+}
+footer .card-body {
+  background-color: rgba(255, 72, 0, 0.9);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+nav {
+  height: 100%;
+}
+
+#imgHome {
+  text-align: center;
+}
+#imgHome img {
+  width: 400px;
+  height: 350px;
+  margin: 0 10px;
+  transition: ease 1s;
+  opacity: 70%;
+}
+#imgHome img:hover {
+  opacity: 100%;
+  cursor: pointer;
+}
+#home2 {
+  background-color: rgba(255, 255, 255, 100%);
+  padding: 40px;
+  text-align: justify;
+}
+#home1 {
+  background-color: rgb(255, 255, 255);
+  padding: 40px;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+#carousel {
+  width: 60%;
+  margin: 0 auto;
+}
+#carro1 h3 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#carro1 h2 {
+  color: rgba(255, 72, 0, 0.9);
+  font-family: "Rubik Mono One", sans-serif;
+}
+#fotocarro h2 {
+  color: rgba(0, 0, 0, 0.9);
+  font-family: "Rubik Mono One";
+}
+#fotocarro h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#fotocarro {
+  text-align: center;
+}
+#carro2 h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#carro2 h2 {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.9);
+  font-family: "Rubik Mono One";
+}
+#carro2 {
+  text-align: center;
+  padding-top: 50px;
+}
+#carro3 h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#carro3 h2 {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.9);
+  font-family: "Rubik Mono One";
+}
+#carro3 {
+  text-align: center;
+  padding-top: 50px;
+}
+#carro4 h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#carro4 h2 {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.9);
+  font-family: "Rubik Mono One";
+}
+#carro4 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* inicio do css das imagens motos */
+/* inicio containermotos */
+#containermotos h3 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#containermotos h2 {
+  color: rgba(255, 72, 0, 0.9);
+  font-family: "Rubik Mono One", sans-serif;
+}
+/* fim containermotos */
+/* inicio motos1 */
+#motos1 h2 {
+  color: rgba(0, 0, 0, 0.9);
+  font-family: "Rubik Mono One";
+}
+#motos1 h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#motos1 {
+  text-align: center;
+}
+
+#motos1 img {
+  width: 50%;
+  height: auto;
+  margin: 0 10px;
+}
+
+/* fim motos1  */
+/* inicio motos2 */
+#motos2 h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#motos2 h2 {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.9);
+  font-family: "Rubik Mono One";
+}
+#motos2 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#motos2 img {
+  width: 50%;
+  height: 400px;
+  margin: 0 10px;
+}
+/* fim motos2  */
+/* inicio motos3 */
+#motos3 h3 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#motos3 h2 {
+  margin-top: 50px;
+  color: rgba(0, 0, 0, 0.9);
+  font-family: "Rubik Mono One";
+}
+#motos3 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#motos3 img {
+  width: 50%;
+  height: auto;
+  margin: 0 10px;
+}
+/* fim motos3 */
+/* inicio da formatação das lojas */
+
+#lojava {
+  margin-top: 50px;
+  color: rgba(255, 72, 0, 0.9);
+  font-family: "Rubik ";
+}
+#lojavz {
+  margin-top: 50px;
+  color: rgba(255, 72, 0, 0.9);
+  font-family: "Rubik ";
+}
+#lojavp {
+  margin-top: 50px;
+  color: rgba(255, 72, 0, 0.9);
+  font-family: "Rubik ";
+}
+/* fim da formatação das lojas */

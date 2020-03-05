@@ -1,0 +1,5 @@
+home        index.html
+orçamento      orcamento.html
+motos       motos.html
+carros      carros.html
+lojas       lojas.html
